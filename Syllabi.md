@@ -1,0 +1,1 @@
+- [Data journalism syllabus](https://journalistsresource.org/syllabi/data-journalism-visualization-mapping-ethics-syllabus) by Journalist's Resource
